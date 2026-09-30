@@ -6,7 +6,7 @@
 
 **A scientific platform for exploring large-scale patterns of microplastic pollution along the Brazilian coastline.**
 
-[![DOI](https://zenodo.org/badge/1395739700.svg)](https://doi.org/10.5281/zenodo.23045182)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23045182.svg)](https://doi.org/10.5281/zenodo.23045182)
 [![Version](https://img.shields.io/badge/version-1.0.0-0b7285)](https://github.com/thiarleneluzifgoiano/micromar-atlas/releases/tag/v1.0.0)
 [![Website](https://img.shields.io/badge/website-MICROMar%20Atlas-14b8a6)](https://thiarleneluzifgoiano.github.io/micromar-atlas/)
 [![Platform](https://img.shields.io/badge/platform-interactive%20atlas-2563eb)](https://01a0d44d-25c8-a964-3421-b8ce6dfaf632.share.connect.posit.cloud/)
