@@ -4,16 +4,13 @@ title: "MICROMar Atlas: Interactive Atlas of Microplastic Pollution in Brazilian
 type: software
 version: "1.0.0"
 date-released: "2026-09-29"
+doi: "10.5281/zenodo.23045182"
 
 authors:
   - family-names: "Marinho da Luz"
     given-names: "Thiarlen"
   - family-names: "Malafaia"
     given-names: "Guilherme"
-
-identifiers:
-  - type: doi
-    value: "10.5281/zenodo.23045182"
 
 repository-code: "https://github.com/thiarleneluzifgoiano/micromar-atlas"
 url: "https://thiarleneluzifgoiano.github.io/micromar-atlas/"
