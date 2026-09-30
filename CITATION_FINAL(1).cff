@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use the MICROMar Atlas in scientific papers, reports, presentations, or other academic outputs, please cite this software."
+title: "MICROMar Atlas: Interactive Atlas of Microplastic Pollution in Brazilian Coastal Sediments"
+type: software
+version: "1.0.0"
+date-released: "2026-09-29"
+
+authors:
+  - family-names: "Marinho da Luz"
+    given-names: "Thiarlen"
+  - family-names: "Malafaia"
+    given-names: "Guilherme"
+
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23045182"
+
+repository-code: "https://github.com/thiarleneluzifgoiano/micromar-atlas"
+url: "https://thiarleneluzifgoiano.github.io/micromar-atlas/"
+
+abstract: >-
+  MICROMar Atlas is an interactive platform for visualizing, exploring, and
+  comparing data on microplastic pollution in Brazilian coastal sediments.
+  Version 1.0.0 brings together information from 4,134 georeferenced samples,
+  1,024 beaches, 211 municipalities, and 17 coastal states, integrating spatial
+  distribution, microplastic composition, pollution load indicators, polymer
+  hazard, ecological risk, and environmental factors.
+
+keywords:
+  - microplastics
+  - coastal sediments
+  - Brazil
+  - pollution
+  - ecological risk
+  - data visualization
+  - MICROMar
